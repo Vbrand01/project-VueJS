@@ -1,2 +1,19 @@
-# project-VueJS
-Project being developed with the purpose of practicing Vue JS for learning
+# segundo_projeto
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
