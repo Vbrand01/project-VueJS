@@ -31,6 +31,9 @@
         components: {
             Picture
         },
+        props: {
+            email: String
+        },
         data(){
             return{
             esta_trabalhando: true,

@@ -10,7 +10,7 @@
         <li>Bootstrap 5</li>
     </ul> -->
     <Info />
-    <Form />
+    <Form :email="email"/>
 </template>
 
 <script>
