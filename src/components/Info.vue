@@ -38,7 +38,6 @@
             return{
             esta_trabalhando: true,
             mostrar_email: false,
-            email: 'victor@gmail.com',
             link_portfolio: 'https://vmbrandao.com/',
             textoBtn: 'Botão',
             frontend_tec: ['HTML5', 'CSS3', 'Javascript', 'JQuery', 'Vue JS', 'Bootstrap 5'],
